@@ -1,0 +1,23 @@
+{
+  "name": "git-32065",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelNavarro7/coderhouse-git-32065.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelNavarro7/coderhouse-git-32065/issues"
+  },
+  "homepage": "https://github.com/ManuelNavarro7/coderhouse-git-32065#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
